@@ -62,5 +62,5 @@
 ---
 
 <div align="center">
-  <sub>Designed with clean academic & engineering aesthetics for <b>Mostafa Khastkhodaei</b></sub>
+  <sub>Designed with clean academic & engineering aesthetics for <b>Mostafa Khastkhodaei</b> • <b>Sepehr Computing</b></sub>
 </div>

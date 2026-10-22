@@ -58,6 +58,17 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khastkhodaei&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=60A5FA&currStreakNum=ffffff" alt="GitHub Streak" />
 </div>
 
+<br />
+
+<div align="center">
+  <!-- Contribution Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khastkhodaei/khastkhodaei/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khastkhodaei/khastkhodaei/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/khastkhodaei/khastkhodaei/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
 ---
 
 <div align="center">

@@ -8,9 +8,18 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=AI+%26+Federated+Learning+Researcher;Personalized+Decentralized+FL+(DFL);Python+%7C+PyTorch+%7C+Docker+%7C+Distributed+Systems;Author+of+SemanticDFL+(ACM+POMACS+%2F+SIGMETRICS)" alt="Typing SVG" />
   </a>
 
+  <!-- Academic & Research Profiles -->
+  <p align="center">
+    <a href="https://orcid.org/0009-0006-8384-4875"><img src="https://img.shields.io/badge/ORCID-0009--0006--8384--4875-A6CE39?style=flat-square&logo=orcid&logoColor=white" /></a>
+    <a href="https://scholar.google.com/citations?user=khastkhodaei"><img src="https://img.shields.io/badge/Google%20Scholar-Mostafa%20Khastkhodaei-4285F4?style=flat-square&logo=googlescholar&logoColor=white" /></a>
+    <a href="https://www.researchgate.net/profile/Mostafa-Khastkhodaei"><img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat-square&logo=researchgate&logoColor=white" /></a>
+  </p>
+
+  <!-- Contact & Network -->
   <p align="center">
     <a href="mailto:dev.khastkhodaei@gmail.com"><img src="https://img.shields.io/badge/Email-dev.khastkhodaei%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
     <a href="https://linkedin.com/in/khastkhodaei"><img src="https://img.shields.io/badge/LinkedIn-Mostafa%20Khastkhodaei-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+    <a href="https://t.me/khastkhodaei"><img src="https://img.shields.io/badge/Telegram-@khastkhodaei-2CA5E0?style=flat-square&logo=telegram&logoColor=white" /></a>
     <a href="https://github.com/sepehrcomputing"><img src="https://img.shields.io/badge/Organization-Sepehr%20Computing-4F46E5?style=flat-square&logo=github&logoColor=white" /></a>
     <img src="https://img.shields.io/badge/Location-Shiraz%2C%20Iran-10B981?style=flat-square&logo=googlemaps&logoColor=white" />
   </p>

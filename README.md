@@ -11,6 +11,7 @@
   <p align="center">
     <a href="mailto:dev.khastkhodaei@gmail.com"><img src="https://img.shields.io/badge/Email-dev.khastkhodaei%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
     <a href="https://linkedin.com/in/khastkhodaei"><img src="https://img.shields.io/badge/LinkedIn-Mostafa%20Khastkhodaei-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+    <a href="https://github.com/sepehrcomputing"><img src="https://img.shields.io/badge/Organization-Sepehr%20Computing-4F46E5?style=flat-square&logo=github&logoColor=white" /></a>
     <img src="https://img.shields.io/badge/Location-Shiraz%2C%20Iran-10B981?style=flat-square&logo=googlemaps&logoColor=white" />
   </p>
 

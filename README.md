@@ -11,7 +11,7 @@
   <!-- Academic & Research Profiles -->
   <p align="center">
     <a href="https://orcid.org/0009-0006-8384-4875"><img src="https://img.shields.io/badge/ORCID-0009--0006--8384--4875-A6CE39?style=flat-square&logo=orcid&logoColor=white" /></a>
-    <a href="https://scholar.google.com/citations?user=khastkhodaei"><img src="https://img.shields.io/badge/Google%20Scholar-Mostafa%20Khastkhodaei-4285F4?style=flat-square&logo=googlescholar&logoColor=white" /></a>
+    <a href="https://scholar.google.com/citations?user=EoPqaUEAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-Mostafa%20Khastkhodaei-4285F4?style=flat-square&logo=googlescholar&logoColor=white" /></a>
     <a href="https://www.researchgate.net/profile/Mostafa-Khastkhodaei"><img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat-square&logo=researchgate&logoColor=white" /></a>
   </p>
 
